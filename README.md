@@ -9,10 +9,10 @@ The Pixel-ImageNet contains 1000 classes and 0.615M instance masks of ILSVRCLOC 
 ### Citations
 Please consider citing our dataset in your publications if it helps your research. The following is a BibTeX reference.
 
-    @article{zhang2020IOG,
-      title={Interactive Object Segmentation with Inside-Outside Guidance},
-      author={Shiyin, Zhang and Jun Hao, Liew and Yunchao, Wei and Shikui, Wei and Yao, Zhao },
-      journal={IEEE Conference on Computer Vision and Pattern Recognition},
+    @inproceedings{zhang2020interactive,
+      title={Interactive Object Segmentation With Inside-Outside Guidance},
+      author={Zhang, Shiyin and Liew, Jun Hao and Wei, Yunchao and Wei, Shikui and Zhao, Yao},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      pages={12234--12244},
       year={2020}
     }
-
