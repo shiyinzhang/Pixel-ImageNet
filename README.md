@@ -3,6 +3,7 @@
 <br />
 <br />
 The subset of the dataset is available. We will release the remaining part of the dataset later. Please stay tuned.
+
 We updated the subset of Pixel-ImageNet. The newly released version has 0.06M more images than before. 
 ### Introduction
 The Pixel-ImageNet contains 1000 classes and 0.615M instance masks of ILSVRCLOC collected using [IOG](https://github.com/shiyinzhang/Inside-Outside-Guidance "IOG"). 
